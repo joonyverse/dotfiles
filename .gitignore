@@ -24,3 +24,4 @@ mimeapps.list
 pavucontrol.ini
 trashrc
 tmux/plugins
+nvim/lazy-lock.json
